@@ -1,6 +1,3 @@
-# spotify-eda-recommender
-EDA and content-based song recommender using Spotify tracks dataset
-
 # 🎵 Spotify EDA & Song Recommender
 
 Exploratory data analysis and content-based song recommender built on a 114k Spotify tracks dataset.
